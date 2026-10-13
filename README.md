@@ -1,6 +1,8 @@
 # Gradient-Ascent-Feature-Visualization
 Visualizing and cross-analyzing ImageNet CNN features using regularized gradient ascent on VGG-16/19 and ResNet-152, studying how different architectures interpret shared synthetic inputs via models of different architectures.
 
+Refer to this [Jupyter Notebook](./src/main.ipynb) for the problem definition as well as the code implementation.
+
 ## Environment Setup
 
 This project provides Conda environment configurations for CPU and GPU setups across Windows and Unix-based systems.
