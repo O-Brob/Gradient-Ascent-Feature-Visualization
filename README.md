@@ -1,7 +1,7 @@
 # Gradient-Ascent-Feature-Visualization
-Visualizing and cross-analyzing ImageNet CNN features using regularized gradient ascent on VGG-16/19 and ResNet-152, studying how different architectures interpret shared synthetic inputs via models of different architectures.
+Investigating and cross-analyzing class-specific feature visualizations across pretrained Convolutional Neural Networks (**VGG-16**, **VGG-19**, and **ResNet-152**) using gradient ascent. This project explores how optimization techniques, specifically $L_2$ regularization and Gaussian blur smoothing impact visual interpretability and cross-model transferability.
 
-Refer to this [Jupyter Notebook](./src/main.ipynb) for the problem definition as well as the code implementation.
+For the complete problem definition, methodology, and implementation details, refer to the [Jupyter Notebook](./src/main.ipynb).
 
 ## Environment Setup
 
